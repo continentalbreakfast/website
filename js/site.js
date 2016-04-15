@@ -70,7 +70,7 @@ var works = {
 	roxannefarahmand: {
 		name: 'Roxanne Farahmond',
 		title: 'Art Right',
-		latLng: '51.7532, 0.4486', /* hemel hempstead */
+		latLng: '51.7537349,-0.4992408', /* hemel hempstead */
 		image: 'images/02.jpg'
 	},
 	hannahfinchman: {
