@@ -335,7 +335,6 @@ var Site = {
 
 		function PieceOnLoad() {
 			galleryName.text(artistName);
-			// galleryTitle.text(artistTitle);
 			galleryName.addClass('loaded');
 			galleryTitle.addClass('loaded');
 			galleryPiece.addClass('loaded');
@@ -476,7 +475,7 @@ var Site = {
 }
 
 $( document ).ready(function() {
-	Site.splash();
+	// Site.splash();
 	Site.galleryInit();
 	Site.map();
 	
