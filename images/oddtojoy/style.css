@@ -1,0 +1,224 @@
+body{
+  margin: 20px;
+}
+
+header{
+  margin-top:50px;
+
+}
+
+ section, footer{
+  margin: 0px;
+} 
+
+
+ @font-face {
+        font-family:EUnouveau-Regular;
+        font-style:italic;
+  		src: url('font/OddToJoy-Regular.eot?#iefix') format('embedded-opentype'),  url('font/OddToJoy-Regular.otf')  format('opentype'),
+	    url('font/OddToJoy-Regular.woff') format('woff'), url('font/OddToJoy-Regular.ttf')  format('truetype');
+	}
+
+    @font-face {
+        font-family:"OddToJoy-Regular";
+        src: url(font/OddToJoy-Regular.otf);
+    }
+a{
+  text-decoration: none;
+}
+
+#wrapper{
+	max-width: 1500px;
+	position:relative;
+	margin: auto;
+	overflow:visible;
+}
+
+#cases{
+	max-width: 850px;
+	margin: auto;
+	padding: 10px 50px 10px 50px;
+	text-align: center;
+}
+
+#casesdescription{
+  max-width: 850px;
+  margin: auto;
+  padding: 10px 50px 10px 50px;
+  text-align: center;
+  -webkit-columns: 2 300px;
+    -moz-columns: 2 300px;
+          columns: 2 300px;
+  -webkit-column-gap: 2em;
+     -moz-column-gap: 2em;
+          column-gap: 2em;
+}
+
+#cases2{
+	max-width: 850px;
+	margin: auto;
+	padding: 10px 50px 10px 50px;
+	text-align: center;
+}
+
+#casesmenu{
+  max-width: 850px;
+  margin: auto;
+  padding: 0px 50px 0px 50px;
+  text-align: center;
+}
+
+
+#nophone{
+  max-width: 850px;
+  margin: auto;
+  text-align: center;
+  line-height: 40pt;
+}
+
+
+.casebutton{ 
+	line-height: 35pt;
+	border: 1px solid;
+	border-color:#FFCC00;
+	font-family:"OddToJoy-Regular";
+	font-size: 14pt;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: "OddToJoy-Regular";
+    color: #FFCC00;
+    font-size: 30pt;
+    line-height: 5pt;
+    font-weight: normal;
+}
+
+h2 {
+  font-family: "OddToJoy-Regular";
+    color: #FFCC00;
+    font-size: 14pt;
+    line-height: 5pt;
+    font-weight: normal;
+    line-height: 40pt;
+}
+
+.title{
+    font-family:"OddToJoy-Regular";
+    font-size: 30pt;
+    line-height: 400pt;
+    font-weight: normal;
+    text-decoration: none;
+    background-color: #003399;
+}
+
+#credit {
+  position: absolute, bottom: 0;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  line-height: 50pt;
+
+}
+
+#nophonetext {
+  font-family: garamond, times, serif;
+  font-style: italic;
+  font-size: 12pt;
+  letter-spacing: 1pt;
+  color: red;
+  }
+
+
+p.quote{
+
+  font-style: italic;
+  font-weight: normal;
+    text-align: center;
+    font-size: 16pt;
+    font-family: garamond, times, serif;
+    color: #003399;
+    letter-spacing: 1pt;
+}
+
+
+#songtop {
+	position: absolute, top: 0;
+	max-width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+#songbottom {
+	position: absolute, bottom: 0;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+
+}
+.song{
+    font-weight: normal;
+    font-family: "OddToJoy-Regular";
+    font-size: 9pt;
+    color: #003399;
+
+}
+
+.bodytext {
+    font-weight: normal;
+    text-align: left;
+    font-size: 12pt;
+    font-family: "OddToJoy-Regular";
+    color: #003399;
+      }
+
+
+.bodytext2 {
+    text-align: left;
+    font-size: 8pt;
+    font-family: "OddToJoy-Regular";
+    color: #003399;
+      -webkit-columns: 2 300px;
+     -moz-columns: 2 300px;
+          columns: 2 300px;
+  -webkit-column-gap: 2em;
+     -moz-column-gap: 2em;
+          column-gap: 2em;
+      }
+
+b.yellowstar{
+color:  #FFCC00;
+font-weight: normal;
+
+}
+
+a.two{
+  text-decoration: none;
+}
+
+a.two:hover{
+  background-color: #FFCC00;
+
+}
+
+a.two:link {color:#003399;}
+a.two:visited {color:#003399;}
+
+a.one{
+	text-decoration: none;
+	color: #003399;
+}
+
+a.one:link {color:#003399;}
+a.one:visited {color:#003399;}
+a.one:hover {color:#FFCC00;}
+
+a.three{
+  text-decoration: none;
+  color: #003399;
+}
+a.three:link {color:#003399;}
+a.three:visited {color:#003399;}
+a.three:hover {color:#FFCC00;}
+
+
