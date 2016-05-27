@@ -311,6 +311,7 @@ pre em {
 	display: flex;
 	flex-flow: row wrap;
 	align-content: flex-start;
+	align-items: flex-start;
 	max-width: 1400px;
 	margin: 0 auto;
 }

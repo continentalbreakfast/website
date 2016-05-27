@@ -353,6 +353,9 @@ pre em {
 	-webkit-align-content: flex-start;
 	-ms-flex-line-pack: start;
 	align-content: flex-start;
+	-webkit-align-items: flex-start;
+	-ms-flex-align: start;
+	align-items: flex-start;
 	max-width: 1400px;
 	margin: 0 auto;
 }
