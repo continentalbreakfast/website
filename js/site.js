@@ -190,6 +190,12 @@ Current mood: <strong>Registered pensive</strong></pre>'
 		latLng: '52.2405, 0.9027', /* northampton */
 		image: '<figure class="embed"><iframe src="https://player.vimeo.com/video/167847772?loop=1&autoplay=1&title=0&byline=0&portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></figure><figure class="embed"><iframe src="https://player.vimeo.com/video/167847771?loop=1&autoplay=1&title=0&byline=0&portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></figure><figure class="embed"><iframe src="https://player.vimeo.com/video/167847770?loop=1&autoplay=1&title=0&byline=0&portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></figure><figure class="embed"><iframe src="https://player.vimeo.com/video/167847450?loop=1&autoplay=1&title=0&byline=0&portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></figure>'
 	},
+	alexmccullough: {
+		name: 'Alex McCullough',
+		title: '',
+		latLng: '51.5074, 0.1278', /* london */
+		image: '<img class="gallery-image" src="images/alexmccullough/alexmccullough.gif" alt="Alex McCullough"/>'
+ 	},
 	sepusnoordmans: {
 		name: 'Sepus Noordmans',
 		title: '',
@@ -208,12 +214,13 @@ Current mood: <strong>Registered pensive</strong></pre>'
 		latLng: '49.1951, 16.6068', /* brno */
 		image: '<img class="gallery-image" src="images/terezaruller/terezaruller.jpg" alt="Tereza Ruller"/>'
 	},
-	andrewthorpe: {
-		name: 'Andrew Thorpe',
+	sebastianzimmerhackl: {
+		name: 'Sebastian Zimmerhackl',
 		title: '',
-		latLng: '51.3646, 0.6658', /* windlesham */
-		image: ""
-	}
+		latLng: '47.9990, 7.8421', /* freiburg im breisgau */
+		image: '<img class="gallery-image" src="images/sebastianzimmerhackl/sebastianzimmerhackl.png" alt="Sebastian Zimmerhackl"/>'
+ 	}
+
 }
 
 var Site = {
